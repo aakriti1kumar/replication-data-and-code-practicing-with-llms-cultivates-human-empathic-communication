@@ -1,0 +1,7 @@
+.DS_Store
+*.env
+.venv
+*.pdf
+/checkpoints
+*.py
+/data/ksae_conceptspyproject.toml
